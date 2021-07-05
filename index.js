@@ -3,6 +3,12 @@ const scroller = new LocomotiveScroll({
     smooth: true,
     multiplier:1,
     touchMultiplier:0.7,
+    mobile: {
+        smooth: true
+    },
+    tablet: {
+        smooth: true
+    }
    
   });
 
