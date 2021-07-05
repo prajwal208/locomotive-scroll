@@ -3,7 +3,7 @@ const scroller = new LocomotiveScroll({
     smooth: true,
     multiplier:1,
     touchMultiplier:0.7,
-    mobile: {
+   smartphone: {
         smooth: true
     },
     tablet: {
